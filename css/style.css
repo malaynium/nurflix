@@ -30,6 +30,7 @@ h4 {
 	color: #fff;
 }
 
+
 a {
 	color: #fff;
 	text-decoration: none;
@@ -84,6 +85,12 @@ img {
 	right: 0;
 	transform: translate(-50%, -50%);
 }
+
+.showcase-top h1{
+	color: var(--primary-color);
+	
+}
+
 
 .showcase-content {
 	position: relative;
